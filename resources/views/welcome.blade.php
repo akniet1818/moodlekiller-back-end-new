@@ -195,7 +195,7 @@
                                 </div>
                             </div>
 
-                            <!--BOTTOM DIV-->
+                            
                             <div class=" container-fluid">
                                 <div class="row d-flex">
                                     <!--NO LOGO-->
@@ -329,7 +329,7 @@
                                 </div>
                             </div>
 
-                            <!--BOTTOM DIV-->
+                           
                             <div class=" container-fluid">
                                 <div class="row d-flex">
                                     <!--NO LOGO-->
